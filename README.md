@@ -1,3 +1,3 @@
 # Mask-Atari
 
-![image](https://github.com/celarex/Mask-Atari/Animations/Breakout.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Breakout.gif)
