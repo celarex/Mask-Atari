@@ -10,7 +10,9 @@
 
 ### Resolution
 
-## Trained Examples (Left: Observations Right: Modified for human understanding)
+## Trained Examples 
+
+(Left: Observations Right: Modified for human understanding)
 
 Breakout
 
