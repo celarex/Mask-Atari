@@ -10,6 +10,9 @@
 
 ### Resolution
 
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolutionBlack.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolution.gif)
+
 ## Trained Examples 
 
 (Left: Observations Right: Modified for human understanding)
