@@ -10,8 +10,10 @@
 
 ### Resolution
 
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolutionBlack.gif)
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolution.gif)
+//![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolutionBlack.gif)
+//![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolution.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolutionBlack.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolution.gif)
 
 ## Trained Examples 
 
