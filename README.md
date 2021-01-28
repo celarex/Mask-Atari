@@ -1,5 +1,19 @@
 # Mask-Atari
 
+## Some Trained Examples 
+
+(Left: Observations Right: Modified for human understanding)
+
+Breakout
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutBlack.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Breakout.gif)
+
+Asterix
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/AsterixBlack.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Asterix.gif)
+
 ## Hyper-parameter description
 
 ### Scale
@@ -34,17 +48,3 @@
 -->
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolutionBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolution.gif)
-
-## Trained Examples 
-
-(Left: Observations Right: Modified for human understanding)
-
-Breakout
-
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutBlack.gif)
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Breakout.gif)
-
-Asterix
-
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/AsterixBlack.gif)
-![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Asterix.gif)
