@@ -4,9 +4,27 @@
 
 ### Scale
 
+(Left: Scale 70 pixels Right: Scale 130 pixels)
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderScale70.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderScale130.gif)
+
 ### Speed
 
+(Left: Speed 10 pixels/frame Right: Speed 50 pixels/frame)
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderSpeed10.gif)
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderSpeed50.gif)
+
 ### Number
+
+(Mask number = 2)
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderNumber2.gif)
+
+(Loop Boundary)
+
+![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderLoopBoundary.gif)
 
 ### Resolution
 
