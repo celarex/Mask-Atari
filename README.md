@@ -14,7 +14,7 @@ Asterix
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/AsterixBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Asterix.gif)
 
-## Hyper-parameter description
+## Hyper-parameter descriptions
 
 ### Scale
 
