@@ -1,6 +1,6 @@
 # Mask-Atari
 
-## Some Trained Examples 
+## Trained Examples 
 
 (Left: Observations Right: Modified for human understanding)
 
