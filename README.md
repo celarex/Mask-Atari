@@ -62,4 +62,16 @@ Asterix
 |  SpaceInvaders  |  1669  |  817  | 757 |  487  |  148  |
 |  StarGunner  |  10250  |  49395  | 43899 |  1661  |  664  |
 
+|  Environment  |  Human  |  A2C-RNN(Full)  | A2C-RNN(Resolution Decay) |  A2C-RNN(Mask)  |  Random  |
+|  ----  |  ----  |  ----  | ---- |  ----  |  ----  |
+|  Assault  |  742  |  3789  | 4282 |  337  |  222  |
+|  Asterix  |  8503  |  2943  | 2725 |  2174  |  210  |
+|  Asteroids  |  47389  |  1786  | 1647 |  1452  |  719  |
+|  BeamRider  |  16927  |  5215  | 3404 |  454  |  364  |
+|  Breakout  |  30.5  |  369  | 349 |  0.9  |  1.7  |
+|  Centipede  |  12017  |  4541  | 4573 |  3252  |  2091  |
+|  MsPacman  |  6952  |  2239  | 1197 |  837  |  307  |
+|  Qbert  |  13455  |  5173  | 909 |  187  |  164  |
+|  SpaceInvaders  |  1669  |  1108  | 682 |  218  |  148  |
+|  StarGunner  |  10250  |  41989  | 37432 |  1872  |  664  |
 
