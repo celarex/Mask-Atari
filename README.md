@@ -1,8 +1,8 @@
 # Mask-Atari
 
-## Trained Examples 
+## Learned Examples 
 
-(Left: Observations Right: Modified for human understanding)
+(Left: only masked area is observable Right: area without mask is transparent for easier understanding)
 
 Breakout
 
@@ -14,7 +14,7 @@ Asterix
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/AsterixBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/Asterix.gif)
 
-## Hyper-parameter descriptions
+## Mask Parameters Setting Examples
 
 ### Scale
 
@@ -36,12 +36,12 @@ Asterix
 
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderNumber2.gif)
 
-(Loop Boundary)
+### Boundary slipping through (when set to True)
 
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderLoopBoundary.gif)
 
-### Resolution
-
+### Resolution Decay
+--resolution is decayed by taking the mask window as the centric area with 1.0x resolution.
 <!--
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolutionBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolution.gif)
@@ -49,6 +49,7 @@ Asterix
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolutionBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderResolution.gif)
 
+## Experiment on Resolution Decay 
 |  Environment  |  Human  |  A2C-CNN(Full)  | A2C-CNN(Resolution Decay) |  A2C-CNN(Mask)  |  Random  |
 |  ----  |  ----  |  ----  | ---- |  ----  |  ----  |
 |  Assault  |  742  |  4428  | 1920 |  495  |  222  |
