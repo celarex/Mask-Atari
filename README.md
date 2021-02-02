@@ -41,7 +41,7 @@ Asterix
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BeamRiderLoopBoundary.gif)
 
 ### Resolution Decay
---resolution is decayed by taking the mask window as the centric area with 1.0x resolution.
+--resolution is decayed wiht 3 layers by taking the smallest mask as the centric area with 1.0x resolution.
 <!--
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolutionBlack.gif)
 ![image](https://github.com/celarex/Mask-Atari/blob/main/Animations/BreakoutResolution.gif)
